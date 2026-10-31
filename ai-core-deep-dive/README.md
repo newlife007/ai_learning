@@ -16,6 +16,7 @@
 | 08 | 模型评估与基准测试 | [08-evaluation.md](08-evaluation.md) |
 | 09 | AI 安全与对齐 | [09-safety-alignment.md](09-safety-alignment.md) |
 | 10 | 开源 vs 闭源：大模型生态全景 | [10-open-vs-closed.md](10-open-vs-closed.md) |
+| 11 | 如何实现可靠且可自进化的智能体应用 | [11-reliable-agent-applications.md](11-reliable-agent-applications.md) |
 
 ## 适合谁读
 
